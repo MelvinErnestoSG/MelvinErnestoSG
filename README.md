@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Melvin Ernesto Santana Garcia. 
 - 👀 I’m interested in HTML,CC3,Javascript,C#.
 - 🌱 I’m currently learning HTML,CC3,Javascript,C#.
-- 💞️ I’m looking to collaborate on myself.
+- 💞️ I’m looking to collaborate with myself.
 - 📫 How to reach me Dominican Republic.
 
 <!---
