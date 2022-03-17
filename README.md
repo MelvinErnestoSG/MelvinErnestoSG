@@ -2,7 +2,7 @@
 - 👀 I’m interested in HTML,CC3,Javascript,C#,Java,C,C++.
 - 🌱 I’m currently learning scripts,Bootstrap5,WebApi,Android,kotlin.
 - 💞️ I’m looking to collaborate with myself.
-- 📫 How to reach me Dominican Republic.
+- 📫 How to reach me in Dominican Republic.
 - 🌐 My site web https://melvinernestosg.github.io/My_website/
 
 <!---
