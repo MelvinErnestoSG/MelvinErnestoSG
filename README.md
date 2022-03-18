@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Melvin Ernesto Santana Garcia. 
 - 👀 I’m interested in HTML,CC3,Javascript,C#,Java,C,C++.
 - 🌱 I’m currently learning scripts,Bootstrap5,WebApi,Android,kotlin.
-- 💞️ I’m looking to collaborate with myself.
+- 💞️ I am looking to collaborate with a company that seeks to provide solutions to the problems that arise from day to day.
 - 📫 How to reach me in San Francisco De Macoris.
 
 <!---
