@@ -1,6 +1,6 @@
 - 👋 Hi, I am Melvin Ernesto Santana Garcia. 
-- 👀 I am interested in HTML5, CC3, Javascript, Typescript, Java, C#, C++, Go, Sass, React, Nodejs, Dart.
-- 🌱 I am currently learning scripts, Bootstrap5, Material Design, WebApi, Android, kotlin, Python 3.
+- 👀 I am interested in the following languages: Android, Kotlin, Python 3, Javascript, Typescript, Java, C#, C++, Go, Dart.
+- 🌱 I am currently learning to use in the future: Scripts, Bootstrap5, HTML5, CC3, Material Design, WebApi, Nodejs.
 - 💞️ I am looking to collaborate with a company that seeks to provide solutions to the problems that arise from day to day.
 - 📫 How to reach me in San Francisco De Macoris.
 
