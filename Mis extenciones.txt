@@ -1,4 +1,3 @@
-extensiones visual estudio code
 Better Comments
 C#
 Code Runner
