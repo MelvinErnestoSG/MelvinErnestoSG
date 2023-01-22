@@ -1,0 +1,17 @@
+extensiones visual estudio code
+Better Comments
+C#
+Code Runner
+Code Spell Checker
+Error Lens
+ESLint
+GitHub Pull Requests and Issues
+GitLens — Git supercharged
+indent-rainbow
+Live Sass Compiler
+Live Server
+Path Intellisense
+Prettier - Code formatter
+Python
+SonarLint
+vscode-icons
