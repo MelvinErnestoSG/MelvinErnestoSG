@@ -1,5 +1,0 @@
-linked editing
-bracket pair colorization
-bracket pairs
-sticky scroll
-cursor animation
