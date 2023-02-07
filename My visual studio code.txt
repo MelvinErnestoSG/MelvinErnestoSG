@@ -1,0 +1,24 @@
+My settings.
+1)linked editing
+2)bracket pair colorization
+3)bracket pairs
+4)sticky scroll
+5)cursor animation
+
+My extensions.
+1)Better Comments
+2)C#
+3)Code Runner
+4)Code Spell Checker
+5)Error Lens
+6)ESLint
+7)GitHub Pull Requests and Issues
+8)GitLens — Git supercharged
+9)indent-rainbow
+10)Live Sass Compiler
+11)Live Server
+12)Path Intellisense
+13)Prettier - Code formatter
+14)Python
+15)SonarLint
+16)vscode-icons
