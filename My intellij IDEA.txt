@@ -1,0 +1,5 @@
+Descargar JDK: 
+https://www.oracle.com/java/technologies/downloads/#jdk19-windows
+
+Descargar Intellij IDEA: 
+https://www.jetbrains.com/idea/
