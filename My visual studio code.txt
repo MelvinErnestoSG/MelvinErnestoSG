@@ -12,13 +12,11 @@ My extensions.
 4)Code Spell Checker
 5)Error Lens
 6)ESLint
-7)GitHub Pull Requests and Issues
-8)GitLens — Git supercharged
-9)indent-rainbow
-10)Live Sass Compiler
-11)Live Server
-12)Path Intellisense
-13)Prettier - Code formatter
-14)Python
-15)SonarLint
-16)vscode-icons
+7)GitLens — Git supercharged
+8)indent-rainbow
+9)Live Server
+10)Path Intellisense
+11)Prettier - Code formatter
+12)SonarLint
+13)Spanish Language Pack for Visual Studio Code
+14)vscode-icons
