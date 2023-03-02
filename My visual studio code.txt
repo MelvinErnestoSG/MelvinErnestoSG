@@ -13,10 +13,12 @@ My extensions.
 5)Error Lens
 6)ESLint
 7)GitLens — Git supercharged
-8)indent-rainbow
-9)Live Server
-10)Path Intellisense
-11)Prettier - Code formatter
-12)SonarLint
-13)Spanish Language Pack for Visual Studio Code
-14)vscode-icons
+8)Import Cost
+9)indent-rainbow
+10)Live Server
+11)Path Intellisense
+12)Prettier - Code formatter
+13)Random Everything
+14)SonarLint
+15)Spanish Language Pack for Visual Studio Code
+16)vscode-icons
