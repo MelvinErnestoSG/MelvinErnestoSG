@@ -8,17 +8,18 @@ My settings.
 My extensions.
 1)Better Comments
 2)C#
-3)Code Runner
-4)Code Spell Checker
-5)Error Lens
-6)ESLint
-7)GitLens — Git supercharged
-8)Import Cost
-9)indent-rainbow
-10)Live Server
-11)Path Intellisense
-12)Prettier - Code formatter
-13)Random Everything
-14)SonarLint
-15)Spanish Language Pack for Visual Studio Code
-16)vscode-icons
+3)Code GPT
+4)Code Runner
+5)Code Spell Checker
+6)Error Lens
+7)ESLint
+8)GitLens — Git supercharged
+9)Import Cost
+10)indent-rainbow
+11)Live Server
+12)Path Intellisense
+13)Prettier - Code formatter
+14)Random Everything
+15)SonarLint
+16)Spanish Language Pack for Visual Studio Code
+17)vscode-icons
