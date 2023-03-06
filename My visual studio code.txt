@@ -22,4 +22,5 @@ My extensions.
 14)Random Everything
 15)SonarLint
 16)Spanish Language Pack for Visual Studio Code
-17)vscode-icons
+17)Tabnine AI Autocomplete
+18)vscode-icons
