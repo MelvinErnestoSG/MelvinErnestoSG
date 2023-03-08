@@ -7,20 +7,23 @@ My settings.
 
 My extensions.
 1)Better Comments
-2)C#
-3)Code GPT
-4)Code Runner
-5)Code Spell Checker
-6)Error Lens
-7)ESLint
-8)GitLens — Git supercharged
-9)Import Cost
-10)indent-rainbow
-11)Live Server
-12)Path Intellisense
-13)Prettier - Code formatter
-14)Random Everything
-15)SonarLint
-16)Spanish Language Pack for Visual Studio Code
-17)Tabnine AI Autocomplete
-18)vscode-icons
+2)Bootstrap 5 Quick Snippets
+3)Bootstrap5 Snippet
+4)C#
+5)Code GPT
+6)Code Runner
+7)Code Spell Checker
+8)Error Lens
+9)ESLint
+10)GitLens — Git supercharged
+11)Import Cost
+12)indent-rainbow
+13)Live Server
+14)MySQL
+15)Path Intellisense
+16)Prettier - Code formatter
+17)Random Everything
+18)SonarLint
+19)Spanish Language Pack for Visual Studio Code
+20)Thunder Client
+
