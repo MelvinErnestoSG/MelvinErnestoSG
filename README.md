@@ -1,6 +1,6 @@
 - 👋 Hi, everyone. 
 - 👀 I am interested at the following languages: Android, Java, Kotlin, Python 3, Javascript, Typescript, C#, Go, Dart, Svelte.
-- 🌱 I am currently learning to use at the future: T-SQL, Bootstrap5, HTML5, CC3, Material Design, WebApi, Nodejs.
+- 🌱 I am currently learning to use at the future: Database, Bootstrap5, HTML5, CC3, Material Design, WebApi, Nodejs.
 - 💞️ I seek to collaborate with a creative company that can provide solutions to problems.
 - 📫 How to reach me.
 
