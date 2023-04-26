@@ -5,8 +5,11 @@ MelvinErnestoSG/MelvinErnestoSG is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 
 - 👀 I am interested at the following languages: Android, Java, Kotlin, Python 3, Javascript, Typescript, C#, Go, Dart, Svelte.
+
 - 🌱 I am currently learning to use at the future: Database, Bootstrap5, HTML5, CC3, Material Design, WebApi, Nodejs.
+
 - 💞️ I seek to collaborate with a creative company that can provide solutions to problems.
+
 - 📫 How to reach me.
 
 - https://www.freecodecamp.org/
