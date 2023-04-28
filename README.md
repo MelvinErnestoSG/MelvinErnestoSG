@@ -1,5 +1,5 @@
 - 👋 Hi, everyone.
-- 🇩🇴 I am of la tierra del plátano power.
+- 🇩🇴 I am from la tierra del plátano power.
 - 💞️ I love web development and Programming.
 
 <!---
