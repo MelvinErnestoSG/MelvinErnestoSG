@@ -1,5 +1,5 @@
 - 👋 Hi, everyone ✔
-- 🇩🇴 I am from 💯 plátano power ✔
+- 🌱 I am from 💯 plátano power ✔
 - 👨‍💻 I love web development and Programming ✔
 
 <!---
