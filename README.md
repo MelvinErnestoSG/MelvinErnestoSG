@@ -1,6 +1,5 @@
 - 👋 Hi, everyone ✔
 - 🌱 I am from 💯 Plátano Power ✔
-- 👨‍💻 I love Programming ✔
 - 🌐 I love Web Development ✔
 <!---
 MelvinErnestoSG/MelvinErnestoSG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
