@@ -66,10 +66,9 @@
 
 - https://www.freecodecamp.org/certification/fccb954363d-2f34-4d3b-8934-86a40a9ffef2/machine-learning-with-python-v7
 
-  <div align="center">
-<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
-
-[![](https://github-readme-stats.vercel.app/api?username=MelvinErnestoSG&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/MelvinErnestoSG)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=MelvinErnestoSG&theme=material-palenight)](https://github.com/MelvinErnestoSG)
+<div align="center">
+  <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
+  [![](https://github-readme-stats.vercel.app/api?username=MelvinErnestoSG&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/MelvinErnestoSG)
+  [![](https://github-readme-streak-stats.herokuapp.com/?user=MelvinErnestoSG&theme=material-palenight)](https://github.com/MelvinErnestoSG)
 </div>
 
