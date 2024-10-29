@@ -43,9 +43,9 @@
 <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black">
 </span>
 
-<h4> 👨‍💻 Other Tools and Technologies </h4>
+<h4> 🕓 Version Control </h4>
 <span>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> 
 </span>
 
  ## 🧑‍💻 Completed courses
