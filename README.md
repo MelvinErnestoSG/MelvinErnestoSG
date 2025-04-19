@@ -2,14 +2,14 @@
 
 ![](github-image.png)
 
-### 💫 About Me:
+## 💫 About Me:
 
 <h4> I am a student of the Computer Systems Engineering program. </h4>
 
 
-### 🎓 My Skills Include:
+## 🎓 My Skills Include:
 
-<h4> 📋 Languages </h4>
+<h4> 📋 Languages: </h4>
 <span> 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -56,7 +56,11 @@
 </span>
 
 ----
-#### 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MelvinErnestoSG&theme=aura&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=MelvinErnestoSG&theme=aura&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MelvinErnestoSG&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=MelvinErnestoSG&theme=aura&no-frame=false&no-bg=true&margin-w=4)
