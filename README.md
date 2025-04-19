@@ -2,11 +2,12 @@
 
 ![](github-image.png)
 
-### 😺 About me
+### 💫 About Me:
 
 <h4> I am a student of the Computer Systems Engineering program. </h4>
 
-### 🎓 My Skills Include
+
+### 🎓 My Skills Include:
 
 <h4> 📋 Languages </h4>
 <span> 
@@ -20,7 +21,8 @@
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 </span>
 
-<h4> 📚 Frameworks, Platforms and Libraries </h4>
+----
+<h4> 📚 Frameworks, Platforms and Libraries: </h4>
 <span>
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
@@ -31,13 +33,13 @@
 </span>
 
 ----
-<h4> 💾 Databases </h4>
+<h4> 💾 Databases: </h4>
 <span>
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
 </span>
 
 ----
-<h4> 💻 IDE </h4>
+<h4> 💻 IDE: </h4>
 <span>
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white">
@@ -48,7 +50,7 @@
 </span>
 
 ----
-<h4> 🕓 Version Control </h4>
+<h4> 🕓 Version Control: </h4>
 <span>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> 
 </span>
