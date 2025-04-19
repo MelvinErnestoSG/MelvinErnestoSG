@@ -6,7 +6,7 @@
 
 <h4> I am a student of the Computer Systems Engineering program. </h4>
 
-## 🎓 My Skills Include
+### 🎓 My Skills Include
 
 <h4> 📋 Languages </h4>
 <span> 
@@ -30,11 +30,13 @@
   <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white">
 </span>
 
+----
 <h4> 💾 Databases </h4>
 <span>
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
 </span>
 
+----
 <h4> 💻 IDE </h4>
 <span>
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
@@ -45,18 +47,14 @@
 <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black">
 </span>
 
+----
 <h4> 🕓 Version Control </h4>
 <span>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> 
 </span>
 
 ----
-
-<div align="center">
-<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
-
-[![](https://github-readme-stats.vercel.app/api?username=MelvinErnestoSG&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/MelvinErnestoSG)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=MelvinErnestoSG&theme=material-palenight)](https://github.com/MelvinErnestoSG)
-</div>
-
-----
+#### 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=MelvinErnestoSG&theme=aura&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=MelvinErnestoSG&theme=aura&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MelvinErnestoSG&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
