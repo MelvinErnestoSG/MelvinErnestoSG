@@ -1,6 +1,7 @@
 <h1 align="center"><b>Hi , I'm Melvin Ernesto </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-## 😺 About me
+
+### 😺 About me
 
 <h4> I am a student of the Computer Systems Engineering program. </h4>
 
