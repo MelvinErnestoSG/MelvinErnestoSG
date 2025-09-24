@@ -2,7 +2,7 @@
 
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"><b> Hi , I'm Melvin Ernesto </b> 🚀</h1>
 
-## 💫 About Me: I am a student of the Computer Systems Engineering program.
+## 💫 About Me: <p> I am a student of the Computer Systems Engineering program. </p>
 
 ## 🎓 My Skills Include:
 
