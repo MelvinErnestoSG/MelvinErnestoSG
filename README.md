@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="assets/banner.png" alt="banner" width="100%" height="200px">
-</p>
+<p align="center"><img src="assets/banner.png" alt="banner" width="100%" height="150px"></p>
 
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"><b> Hi , I'm Melvin Ernesto </b> 🚀</h1>
 
@@ -21,7 +19,8 @@
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go
+&logoColor=white">
   <img src="https://img.shields.io/badge/PHP-787cb5?style=for-the-badge&logo=php&logoColor=white">
 </span>
 
