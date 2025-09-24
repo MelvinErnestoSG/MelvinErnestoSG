@@ -4,6 +4,7 @@
 
 ## 💫 About Me: <p> I am a student of the Computer Systems Engineering program. </p>
 
+----
 ## 🎓 My Skills Include:
 
 <h4> 📋 Languages </h4>
