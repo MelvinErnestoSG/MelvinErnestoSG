@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://link-de-tu-imagen.png" alt="banner" width="100%">
-</p>
-
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"><b> Hi , I'm Melvin Ernesto </b> 🚀</h1>
 
 ## 💫 About Me:
