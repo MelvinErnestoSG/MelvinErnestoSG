@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="banner" width="100%" height="20px">
+  <img src="assets/banner.png" alt="banner" width="100%" height="50px">
 </p>
 
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"><b> Hi , I'm Melvin Ernesto </b> 🚀</h1>
